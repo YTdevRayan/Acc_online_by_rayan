@@ -87,13 +87,9 @@ RAYAN5.on("ready", () => {
   if (join) join.join();
 });
 //===============RAYAN============//
-RAYAN.login(
-  "MTE0MDc2MTk2NDY3NTYxMjc4Mg.Gblpay.u-7_3Y-nbumkPj7D684mnzqF9ko6fTYSiXEyBc"
-);
-RAYAN2.login(
-  "MTE0MDM2OTY5NzMwOTc0MTE5OA.GPYlOu.kPYXfDi5U0W8PvC-movqiNuIgplXJJoFVau16g"
-);
-RAYAN3.login("");
-RAYAN4.login("");
-RAYAN5.login("");
+RAYAN.login("MTE0MDc2MTk2NDY3NTYxMjc4Mg.Gblpay.u-7_3Y-nbumkPj7D684mnzqF9ko6fTYSiXEyBc");
+RAYAN2.login("MTE0MDM2OTY5NzMwOTc0MTE5OA.GPYlOu.kPYXfDi5U0W8PvC-movqiNuIgplXJJoFVau16g");
+RAYAN3.login("MTEzNjY4NDIwMzUwNTg4MTE2OA.GBA1gL.giDl6GO4eePCazreJWUoY8HR-1sYVmAjcEDeaU");
+RAYAN4.login("MTEzNjY5NDIxMTI2NjIyNDIwOA.GYbWJG.jwLLbjU9bC97TwHBSCNn3AU6_gkkhsdUvStmBA");
+RAYAN5.login("MTEzNjY5MTA4MDg0NzQzMzc3OA.G4v6PS.dq1ANQEwV_cu-aA54zJaDPMWbyRiV7p_SJFL_s");
 //===============RAYAN============//
