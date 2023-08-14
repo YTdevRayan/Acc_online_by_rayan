@@ -20,10 +20,20 @@ RAYAN.on("ready", () => {
   var join = RAYAN.channels.get("1049044395573387325"); /// id voice
   if (join) join.join();
 });
+RAYAN2.on("ready", () => {
+  var join = RAYAN2.channels.get("1049044395573387325"); /// id voice
+  if (join) join.join();
+});
+RAYAN3.on("ready", () => {
+  var join = RAYAN.channels.get("1049044395573387325"); /// id voice
+  if (join) join.join();
+});
 //===============RAYAN============//
 RAYAN.login(
   "MTE0MDc2MTk2NDY3NTYxMjc4Mg.Gblpay.u-7_3Y-nbumkPj7D684mnzqF9ko6fTYSiXEyBc"
 );
-RAYAN2.login("");
+RAYAN2.login(
+  "MTE0MDM2OTY5NzMwOTc0MTE5OA.GPYlOu.kPYXfDi5U0W8PvC-movqiNuIgplXJJoFVau16g"
+);
 RAYAN3.login(""); /////TOKEN DANE
 //===============RAYAN============//
