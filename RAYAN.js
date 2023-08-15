@@ -190,7 +190,7 @@ RAYAN15.on("ready", () => {
 });
 RAYAN16.on("ready", () => {
   console.log(`Online In Servers`);
-  let statuses = [`By DEV RAYAN & KURDISH PIRATE`];
+  let statuses = [`YT DEV RAYAN & KURDISH PIRATE`];
   setInterval(function () {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
     RAYAN16.user.setActivity(STREAMING, {
@@ -201,7 +201,7 @@ RAYAN16.on("ready", () => {
 });
 RAYAN17.on("ready", () => {
   console.log(`Online In Servers`);
-  let statuses = [`By DEV RAYAN & KURDISH PIRATE`];
+  let statuses = [`YT DEV RAYAN & KURDISH PIRATE`];
   setInterval(function () {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
     RAYAN17.user.setActivity(STREAMING, {
@@ -212,7 +212,7 @@ RAYAN17.on("ready", () => {
 });
 RAYAN18.on("ready", () => {
   console.log(`Online In Servers`);
-  let statuses = [`By DEV RAYAN & KURDISH PIRATE`];
+  let statuses = [`YT DEV RAYAN & KURDISH PIRATE`];
   setInterval(function () {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
     RAYAN18.user.setActivity(STREAMING, {
@@ -223,7 +223,7 @@ RAYAN18.on("ready", () => {
 });
 RAYAN19.on("ready", () => {
   console.log(`Online In Servers`);
-  let statuses = [`By DEV RAYAN & KURDISH PIRATE`];
+  let statuses = [`YT DEV RAYAN & KURDISH PIRATE`];
   setInterval(function () {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
     RAYAN19.user.setActivity(STREAMING, {
@@ -234,7 +234,7 @@ RAYAN19.on("ready", () => {
 });
 RAYAN20.on("ready", () => {
   console.log(`Online In Servers`);
-  let statuses = [`By DEV RAYAN & KURDISH PIRATE`];
+  let statuses = [`YT DEV RAYAN & KURDISH PIRATE`];
   setInterval(function () {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
     RAYAN20.user.setActivity(STREAMING, {
@@ -309,19 +309,19 @@ RAYAN16.on("ready", () => {
   if (join) join.join();
 }); 
 RAYAN17.on("ready", () => {
-  var join = RAYAN17.channels.get("1049044395573387325"); /// id voice
+  var join = RAYAN17.channels.get("1128668599687581737"); /// id voice
   if (join) join.join();
 }); 
 RAYAN18.on("ready", () => {
-  var join = RAYAN18.channels.get("1049044395573387325"); /// id voice
+  var join = RAYAN18.channels.get("1128668599687581737"); /// id voice
   if (join) join.join();
 }); 
 RAYAN19.on("ready", () => {
-  var join = RAYAN19.channels.get("1049044395573387325"); /// id voice
+  var join = RAYAN19.channels.get("1128668599687581737"); /// id voice
   if (join) join.join();
 });
 RAYAN20.on("ready", () => {
-  var join = RAYAN20.channels.get("1049044395573387325"); /// id voice
+  var join = RAYAN20.channels.get("1128668599687581737"); /// id voice
   if (join) join.join();
 }); 
 //==============RAYAN============//
@@ -336,13 +336,13 @@ RAYAN8.login("MTEzODA2NzU5OTIwNTM0NzM4OQ.GvpLbG.TTOAsp1VwicysARiYa0HuINuB6m_cJGX
 RAYAN9.login("MTEzODA2NjE0OTcyMDk4OTc1OA.GFo2CM.eQZW8C5Da_oDmlFLJASoqCRhDWZFM0wGz3mPjk");
 RAYAN10.login("MTEzODA2NDg5MTA4NTg0ODY0Nw.GtfD4o.k52e8C5qmGTTgLIMku4RVaF7BZmg1R_PS76Qr0");
 RAYAN11.login("MTEzODA2MjgyMTkxODI2NTM2NA.GDF0E4.N5JuRvFOAc7ictKefA88x41FmbJpMz6xvQn-2Y");
-RAYAN12.login("");
-RAYAN13.login("");
-RAYAN14.login("");
-RAYAN15.login("");
-RAYAN16.login("");
-RAYAN17.login("");
-RAYAN18.login("");
-RAYAN19.login("");
+RAYAN12.login("MTE0MDM0NTgwNDY0OTkzOTAwNg.GY_sMO.7q0HUvpCzCXfD8xDbUmQ7a1tV4NnjUhWMoHJhI");
+RAYAN13.login("MTE0MDM0OTAyOTcwMDYwNDAwNg.GDbvIE.LlPKeIazvD-o_XxDpgZpWCsC4sdkjtQo_fZazA");
+RAYAN14.login("MTE0MDM1MDM5Mzk1NjcxNjY3NQ.Ge_vmc.8jbQK3fAjNxpePpqghu8UrPqBcvx9C6ZLPL9oU");
+RAYAN15.login("MTE0MDM1MTczMTc5Mjg3NTY5Mw.GCirkJ.A8lhaXKHpeRnDs_LV29_opmuDS2qf-ap-QKiuw");
+RAYAN16.login("MTE0MDM1MjYzMTg3Mzc1MzA4OA.Gv7yiM.llMloJHfPUy85ryApbRQLMMa4FMDPlrewaZUgA");
+RAYAN17.login("MTE0MDM1MzYwMTQ5MTk2ODExMQ.GfeRQc.HqSsF_z0GcX6BGIXYH5qB3SjgqPnCWUrnCzACo");
+RAYAN18.login("MTE0MDM1NDM3OTY5ODk0NjE4OQ.GGC4Tv.qsl4p5_AhINWGZpU30z6vcehhDKfqgiv-RUh_c");
+RAYAN19.login("MTE0MDM2MjMyNTUwMTY4OTkxNg.GEF2Iu.KzcO5dav3DLohNM2rH--HAha6BCO9ZuAVAt0bk");
 RAYAN20.login("");
 //===============RAYAN============//
