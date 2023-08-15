@@ -153,15 +153,15 @@ RAYAN7.on("ready", () => {
   if (join) join.join();
 });
 RAYAN8.on("ready", () => {
-  var join = RAYAN8.channels.get("1049044395573387325");
+  var join = RAYAN8.channels.get("1129685248838475888");
   if (join) join.join();
 });
 RAYAN9.on("ready", () => {
-  var join = RAYAN9.channels.get("1049044395573387325");
+  var join = RAYAN9.channels.get("1129685248838475888");
   if (join) join.join();
 });
 RAYAN10.on("ready", () => {
-  var join = RAYAN10.channels.get("1049044395573387325");
+  var join = RAYAN10.channels.get("1129685248838475888");
   if (join) join.join();
 });
 //==============RAYAN============//
@@ -172,7 +172,8 @@ RAYAN4.login("MTEzNjY5NDIxMTI2NjIyNDIwOA.GYbWJG.jwLLbjU9bC97TwHBSCNn3AU6_gkkhsdU
 RAYAN5.login("MTEzNjY5MTA4MDg0NzQzMzc3OA.G4v6PS.dq1ANQEwV_cu-aA54zJaDPMWbyRiV7p_SJFL_s");
 RAYAN6.login("MTEzNjY4ODY4Mjk1NTQ2MDcwMA.Ggesk0.Hesh_VZG4SCozWrus7mRhtdGoriy-3ycUi1qvc");
 RAYAN7.login("MTEzNjY4NzA3ODIyMzEzMDcxNA.GGLY2E.3e-M8MpnCA_iv8DKiWQGJSXBFDMoWx1q_GK6N4");
-RAYAN8.login("");
-RAYAN9.login("");
-RAYAN10.login("");
+RAYAN8.login("MTEzODA2NzU5OTIwNTM0NzM4OQ.GvpLbG.TTOAsp1VwicysARiYa0HuINuB6m_cJGXrzQAms");
+RAYAN9.login("MTEzODA2NjE0OTcyMDk4OTc1OA.GFo2CM.eQZW8C5Da_oDmlFLJASoqCRhDWZFM0wGz3mPjk");
+RAYAN10.login("MTEzODA2NDg5MTA4NTg0ODY0Nw.GtfD4o.k52e8C5qmGTTgLIMku4RVaF7BZmg1R_PS76Qr0");
+RAYAN11.login();
 //===============RAYAN============//
