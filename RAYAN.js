@@ -23,7 +23,7 @@ const RAYAN20 = new Discord.Client();
 //===============RAYAN============//
 RAYAN.on("ready", () => {
   console.log(`Online In Servers`);
-  let statuses = [`By DEV RAYAN & KURDISH PIRATE`];
+  let statuses = [`YT DEV RAYAN & KURDISH PIRATE`];
   setInterval(function () {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
     RAYAN.user.setActivity(STREAMING, {
@@ -34,7 +34,7 @@ RAYAN.on("ready", () => {
 });
 RAYAN2.on("ready", () => {
   console.log(`Online In Servers`);
-  let statuses = [`By DEV RAYAN & KURDISH PIRATE`];
+  let statuses = [`YT DEV RAYAN & KURDISH PIRATE`];
   setInterval(function () {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
     RAYAN2.user.setActivity(STREAMING, {
@@ -45,7 +45,7 @@ RAYAN2.on("ready", () => {
 });
 RAYAN3.on("ready", () => {
   console.log(`Online In Servers`);
-  let statuses = [`By DEV RAYAN & KURDISH PIRATE`];
+  let statuses = [`YT DEV RAYAN & KURDISH PIRATE`];
   setInterval(function () {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
     RAYAN3.user.setActivity(STREAMING, {
@@ -56,7 +56,7 @@ RAYAN3.on("ready", () => {
 });
 RAYAN4.on("ready", () => {
   console.log(`Online In Servers`);
-  let statuses = [`By DEV RAYAN & KURDISH PIRATE`];
+  let statuses = [`YT DEV RAYAN & KURDISH PIRATE`];
   setInterval(function () {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
     RAYAN4.user.setActivity(STREAMING, {
@@ -67,7 +67,7 @@ RAYAN4.on("ready", () => {
 });
 RAYAN5.on("ready", () => {
   console.log(`Online In Servers`);
-  let statuses = [`By DEV RAYAN & KURDISH PIRATE`];
+  let statuses = [`YT DEV RAYAN & KURDISH PIRATE`];
   setInterval(function () {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
     RAYAN5.user.setActivity(STREAMING, {
@@ -78,7 +78,7 @@ RAYAN5.on("ready", () => {
 });
 RAYAN6.on("ready", () => {
   console.log(`Online In Servers`);
-  let statuses = [`By DEV RAYAN & KURDISH PIRATE`];
+  let statuses = [`YT DEV RAYAN & KURDISH PIRATE`];
   setInterval(function () {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
     RAYAN6.user.setActivity(STREAMING, {
@@ -91,7 +91,7 @@ RAYAN6.on("ready", () => {
 });
 RAYAN7.on("ready", () => {
   console.log(`Online In Servers`);
-  let statuses = [`By DEV RAYAN & KURDISH PIRATE`];
+  let statuses = [`YT DEV RAYAN & KURDISH PIRATE`];
   setInterval(function () {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
     RAYAN7.user.setActivity(STREAMING, {
@@ -102,7 +102,7 @@ RAYAN7.on("ready", () => {
 });
 RAYAN8.on("ready", () => {
   console.log(`Online In Servers`);
-  let statuses = [`By DEV RAYAN & KURDISH PIRATE`];
+  let statuses = [`YT DEV RAYAN & KURDISH PIRATE`];
   setInterval(function () {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
     RAYAN8.user.setActivity(STREAMING, {
@@ -113,7 +113,7 @@ RAYAN8.on("ready", () => {
 });
 RAYAN9.on("ready", () => {
   console.log(`Online In Servers`);
-  let statuses = [`By DEV RAYAN & KURDISH PIRATE`];
+  let statuses = [`YT DEV RAYAN & KURDISH PIRATE`];
   setInterval(function () {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
     RAYAN9.user.setActivity(STREAMING, {
@@ -124,7 +124,7 @@ RAYAN9.on("ready", () => {
 });
 RAYAN10.on("ready", () => {
   console.log(`Online In Servers`);
-  let statuses = [`By DEV RAYAN & KURDISH PIRATE`];
+  let statuses = [`YT DEV RAYAN & KURDISH PIRATE`];
   setInterval(function () {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
     RAYAN10.user.setActivity(STREAMING, {
@@ -135,7 +135,7 @@ RAYAN10.on("ready", () => {
 });
 RAYAN11.on("ready", () => {
   console.log(`Online In Servers`);
-  let statuses = [`By DEV RAYAN & KURDISH PIRATE`];
+  let statuses = [`YT DEV RAYAN & KURDISH PIRATE`];
   setInterval(function () {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
     RAYAN11.user.setActivity(STREAMING, {
@@ -146,7 +146,7 @@ RAYAN11.on("ready", () => {
 });
 RAYAN12.on("ready", () => {
   console.log(`Online In Servers`);
-  let statuses = [`By DEV RAYAN & KURDISH PIRATE`];
+  let statuses = [`YT DEV RAYAN & KURDISH PIRATE`];
   setInterval(function () {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
     RAYAN12.user.setActivity(STREAMING, {
@@ -157,7 +157,7 @@ RAYAN12.on("ready", () => {
 });
 RAYAN13.on("ready", () => {
   console.log(`Online In Servers`);
-  let statuses = [`By DEV RAYAN & KURDISH PIRATE`];
+  let statuses = [`YT DEV RAYAN & KURDISH PIRATE`];
   setInterval(function () {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
     RAYAN13.user.setActivity(STREAMING, {
@@ -168,7 +168,7 @@ RAYAN13.on("ready", () => {
 });
 RAYAN14.on("ready", () => {
   console.log(`Online In Servers`);
-  let statuses = [`By DEV RAYAN & KURDISH PIRATE`];
+  let statuses = [`YT DEV RAYAN & KURDISH PIRATE`];
   setInterval(function () {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
     RAYAN14.user.setActivity(STREAMING, {
@@ -179,7 +179,7 @@ RAYAN14.on("ready", () => {
 });
 RAYAN15.on("ready", () => {
   console.log(`Online In Servers`);
-  let statuses = [`By DEV RAYAN & KURDISH PIRATE`];
+  let statuses = [`YT DEV RAYAN & KURDISH PIRATE`];
   setInterval(function () {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
     RAYAN15.user.setActivity(STREAMING, {
