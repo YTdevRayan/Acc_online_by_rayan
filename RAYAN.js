@@ -10,6 +10,16 @@ const RAYAN7 = new Discord.Client();
 const RAYAN8 = new Discord.Client();
 const RAYAN9 = new Discord.Client();
 const RAYAN10 = new Discord.Client();
+const RAYAN11 = new Discord.Client();
+const RAYAN12 = new Discord.Client();
+const RAYAN13 = new Discord.Client();
+const RAYAN14 = new Discord.Client();
+const RAYAN15 = new Discord.Client();
+const RAYAN16 = new Discord.Client();
+const RAYAN17 = new Discord.Client();
+const RAYAN18 = new Discord.Client();
+const RAYAN19 = new Discord.Client();
+const RAYAN20 = new Discord.Client();
 //===============RAYAN============//
 RAYAN.on("ready", () => {
   console.log(`Online In Servers`);
@@ -123,6 +133,116 @@ RAYAN10.on("ready", () => {
     });
   }, 2000);
 });
+RAYAN11.on("ready", () => {
+  console.log(`Online In Servers`);
+  let statuses = [`By DEV RAYAN & KURDISH PIRATE`];
+  setInterval(function () {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    RAYAN11.user.setActivity(STREAMING, {
+      type: "PLAYING",
+      url: "https://www.twitch.tv/faith",
+    });
+  }, 2000);
+});
+RAYAN12.on("ready", () => {
+  console.log(`Online In Servers`);
+  let statuses = [`By DEV RAYAN & KURDISH PIRATE`];
+  setInterval(function () {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    RAYAN12.user.setActivity(STREAMING, {
+      type: "PLAYING",
+      url: "https://www.twitch.tv/faith",
+    });
+  }, 2000);
+});
+RAYAN13.on("ready", () => {
+  console.log(`Online In Servers`);
+  let statuses = [`By DEV RAYAN & KURDISH PIRATE`];
+  setInterval(function () {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    RAYAN13.user.setActivity(STREAMING, {
+      type: "PLAYING",
+      url: "https://www.twitch.tv/faith",
+    });
+  }, 2000);
+});
+RAYAN14.on("ready", () => {
+  console.log(`Online In Servers`);
+  let statuses = [`By DEV RAYAN & KURDISH PIRATE`];
+  setInterval(function () {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    RAYAN14.user.setActivity(STREAMING, {
+      type: "PLAYING",
+      url: "https://www.twitch.tv/faith",
+    });
+  }, 2000);
+});
+RAYAN15.on("ready", () => {
+  console.log(`Online In Servers`);
+  let statuses = [`By DEV RAYAN & KURDISH PIRATE`];
+  setInterval(function () {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    RAYAN15.user.setActivity(STREAMING, {
+      type: "PLAYING",
+      url: "https://www.twitch.tv/faith",
+    });
+  }, 2000);
+});
+RAYAN16.on("ready", () => {
+  console.log(`Online In Servers`);
+  let statuses = [`By DEV RAYAN & KURDISH PIRATE`];
+  setInterval(function () {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    RAYAN16.user.setActivity(STREAMING, {
+      type: "PLAYING",
+      url: "https://www.twitch.tv/faith",
+    });
+  }, 2000);
+});
+RAYAN17.on("ready", () => {
+  console.log(`Online In Servers`);
+  let statuses = [`By DEV RAYAN & KURDISH PIRATE`];
+  setInterval(function () {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    RAYAN17.user.setActivity(STREAMING, {
+      type: "PLAYING",
+      url: "https://www.twitch.tv/faith",
+    });
+  }, 2000);
+});
+RAYAN18.on("ready", () => {
+  console.log(`Online In Servers`);
+  let statuses = [`By DEV RAYAN & KURDISH PIRATE`];
+  setInterval(function () {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    RAYAN18.user.setActivity(STREAMING, {
+      type: "PLAYING",
+      url: "https://www.twitch.tv/faith",
+    });
+  }, 2000);
+});
+RAYAN19.on("ready", () => {
+  console.log(`Online In Servers`);
+  let statuses = [`By DEV RAYAN & KURDISH PIRATE`];
+  setInterval(function () {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    RAYAN19.user.setActivity(STREAMING, {
+      type: "PLAYING",
+      url: "https://www.twitch.tv/faith",
+    });
+  }, 2000);
+});
+RAYAN20.on("ready", () => {
+  console.log(`Online In Servers`);
+  let statuses = [`By DEV RAYAN & KURDISH PIRATE`];
+  setInterval(function () {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    RAYAN20.user.setActivity(STREAMING, {
+      type: "PLAYING",
+      url: "https://www.twitch.tv/faith",
+    });
+  }, 2000);
+});
 //===============RAYAN============//
 RAYAN.on("ready", () => {
   var join = RAYAN.channels.get("1049044395573387325"); /// id voice
@@ -164,6 +284,46 @@ RAYAN10.on("ready", () => {
   var join = RAYAN10.channels.get("1129685248838475888");
   if (join) join.join();
 });
+RAYAN11.on("ready", () => {
+  var join = RAYAN11.channels.get("1129685248838475888"); /// id voice
+  if (join) join.join();
+}); 
+RAYAN12.on("ready", () => {
+  var join = RAYAN12.channels.get("1128668599687581737"); /// id voice
+  if (join) join.join();
+}); 
+RAYAN13.on("ready", () => {
+  var join = RAYAN13.channels.get("1128668599687581737"); /// id voice
+  if (join) join.join();
+}); 
+RAYAN14.on("ready", () => {
+  var join = RAYAN14.channels.get("1128668599687581737"); /// id voice
+  if (join) join.join();
+}); 
+RAYAN15.on("ready", () => {
+  var join = RAYAN15.channels.get("1128668599687581737"); /// id voice
+  if (join) join.join();
+}); 
+RAYAN16.on("ready", () => {
+  var join = RAYAN16.channels.get("1128668599687581737"); /// id voice
+  if (join) join.join();
+}); 
+RAYAN17.on("ready", () => {
+  var join = RAYAN17.channels.get("1049044395573387325"); /// id voice
+  if (join) join.join();
+}); 
+RAYAN18.on("ready", () => {
+  var join = RAYAN18.channels.get("1049044395573387325"); /// id voice
+  if (join) join.join();
+}); 
+RAYAN19.on("ready", () => {
+  var join = RAYAN19.channels.get("1049044395573387325"); /// id voice
+  if (join) join.join();
+});
+RAYAN20.on("ready", () => {
+  var join = RAYAN20.channels.get("1049044395573387325"); /// id voice
+  if (join) join.join();
+}); 
 //==============RAYAN============//
 RAYAN.login("MTE0MDc2MTk2NDY3NTYxMjc4Mg.Gblpay.u-7_3Y-nbumkPj7D684mnzqF9ko6fTYSiXEyBc");
 RAYAN2.login("MTE0MDM2OTY5NzMwOTc0MTE5OA.GPYlOu.kPYXfDi5U0W8PvC-movqiNuIgplXJJoFVau16g");
@@ -175,5 +335,14 @@ RAYAN7.login("MTEzNjY4NzA3ODIyMzEzMDcxNA.GGLY2E.3e-M8MpnCA_iv8DKiWQGJSXBFDMoWx1q
 RAYAN8.login("MTEzODA2NzU5OTIwNTM0NzM4OQ.GvpLbG.TTOAsp1VwicysARiYa0HuINuB6m_cJGXrzQAms");
 RAYAN9.login("MTEzODA2NjE0OTcyMDk4OTc1OA.GFo2CM.eQZW8C5Da_oDmlFLJASoqCRhDWZFM0wGz3mPjk");
 RAYAN10.login("MTEzODA2NDg5MTA4NTg0ODY0Nw.GtfD4o.k52e8C5qmGTTgLIMku4RVaF7BZmg1R_PS76Qr0");
-RAYAN11.login();
+RAYAN11.login("MTEzODA2MjgyMTkxODI2NTM2NA.GDF0E4.N5JuRvFOAc7ictKefA88x41FmbJpMz6xvQn-2Y");
+RAYAN12.login("");
+RAYAN13.login("");
+RAYAN14.login("");
+RAYAN15.login("");
+RAYAN16.login("");
+RAYAN17.login("");
+RAYAN18.login("");
+RAYAN19.login("");
+RAYAN20.login("");
 //===============RAYAN============//
