@@ -245,104 +245,104 @@ RAYAN20.on("ready", () => {
 });
 //===============RAYAN============//
 RAYAN.on("ready", () => {
-  var join = RAYAN.channels.get("1049044395573387325"); /// id voice
+  var join = RAYAN.channels.get(""); /// id voice
   if (join) join.join();
 });
 RAYAN2.on("ready", () => {
-  var join = RAYAN2.channels.get("1049044395573387325"); /// id voice
+  var join = RAYAN2.channels.get(""); /// id voice
   if (join) join.join();
 });
 RAYAN3.on("ready", () => {
-  var join = RAYAN.channels.get("1049044395573387325"); /// id voice
+  var join = RAYAN.channels.get(""); /// id voice
   if (join) join.join();
 });
 RAYAN4.on("ready", () => {
-  var join = RAYAN2.channels.get("1049044395573387325");
+  var join = RAYAN2.channels.get("");
   if (join) join.join();
 });
 RAYAN5.on("ready", () => {
-  var join = RAYAN5.channels.get("1049044395573387325");
+  var join = RAYAN5.channels.get("");
   if (join) join.join();
 });
 RAYAN6.on("ready", () => {
-  var join = RAYAN6.channels.get("1049044395573387325");
+  var join = RAYAN6.channels.get("");
   if (join) join.join();
 });
 RAYAN7.on("ready", () => {
-  var join = RAYAN7.channels.get("1049044395573387325");
+  var join = RAYAN7.channels.get("");
   if (join) join.join();
 });
 RAYAN8.on("ready", () => {
-  var join = RAYAN8.channels.get("1129685248838475888");
+  var join = RAYAN8.channels.get("");
   if (join) join.join();
 });
 RAYAN9.on("ready", () => {
-  var join = RAYAN9.channels.get("1129685248838475888");
+  var join = RAYAN9.channels.get("");
   if (join) join.join();
 });
 RAYAN10.on("ready", () => {
-  var join = RAYAN10.channels.get("1129685248838475888");
+  var join = RAYAN10.channels.get("");
   if (join) join.join();
 });
 RAYAN11.on("ready", () => {
-  var join = RAYAN11.channels.get("1129685248838475888"); /// id voice
+  var join = RAYAN11.channels.get(""); /// id voice
   if (join) join.join();
 }); 
 RAYAN12.on("ready", () => {
-  var join = RAYAN12.channels.get("1128668599687581737"); /// id voice
+  var join = RAYAN12.channels.get(""); /// id voice
   if (join) join.join();
 }); 
 RAYAN13.on("ready", () => {
-  var join = RAYAN13.channels.get("1128668599687581737"); /// id voice
+  var join = RAYAN13.channels.get(""); /// id voice
   if (join) join.join();
 }); 
 RAYAN14.on("ready", () => {
-  var join = RAYAN14.channels.get("1128668599687581737"); /// id voice
+  var join = RAYAN14.channels.get(""); /// id voice
   if (join) join.join();
 }); 
 RAYAN15.on("ready", () => {
-  var join = RAYAN15.channels.get("1128668599687581737"); /// id voice
+  var join = RAYAN15.channels.get(""); /// id voice
   if (join) join.join();
 }); 
 RAYAN16.on("ready", () => {
-  var join = RAYAN16.channels.get("1128668599687581737"); /// id voice
+  var join = RAYAN16.channels.get(""); /// id voice
   if (join) join.join();
 }); 
 RAYAN17.on("ready", () => {
-  var join = RAYAN17.channels.get("1128668599687581737"); /// id voice
+  var join = RAYAN17.channels.get(""); /// id voice
   if (join) join.join();
 }); 
 RAYAN18.on("ready", () => {
-  var join = RAYAN18.channels.get("1128668599687581737"); /// id voice
+  var join = RAYAN18.channels.get(""); /// id voice
   if (join) join.join();
 }); 
 RAYAN19.on("ready", () => {
-  var join = RAYAN19.channels.get("1128668599687581737"); /// id voice
+  var join = RAYAN19.channels.get(""); /// id voice
   if (join) join.join();
 });
 RAYAN20.on("ready", () => {
-  var join = RAYAN20.channels.get("1128668599687581737"); /// id voice
+  var join = RAYAN20.channels.get(""); /// id voice
   if (join) join.join();
 }); 
 //==============RAYAN============//
-RAYAN.login("MTE0MDc2MTk2NDY3NTYxMjc4Mg.Gblpay.u-7_3Y-nbumkPj7D684mnzqF9ko6fTYSiXEyBc");
-RAYAN2.login("MTE0MDM2OTY5NzMwOTc0MTE5OA.GPYlOu.kPYXfDi5U0W8PvC-movqiNuIgplXJJoFVau16g");
-RAYAN3.login("MTEzNjY4NDIwMzUwNTg4MTE2OA.GBA1gL.giDl6GO4eePCazreJWUoY8HR-1sYVmAjcEDeaU");
-RAYAN4.login("MTEzNjY5NDIxMTI2NjIyNDIwOA.GYbWJG.jwLLbjU9bC97TwHBSCNn3AU6_gkkhsdUvStmBA");
-RAYAN5.login("MTEzNjY5MTA4MDg0NzQzMzc3OA.G4v6PS.dq1ANQEwV_cu-aA54zJaDPMWbyRiV7p_SJFL_s");
-RAYAN6.login("MTEzNjY4ODY4Mjk1NTQ2MDcwMA.Ggesk0.Hesh_VZG4SCozWrus7mRhtdGoriy-3ycUi1qvc");
-RAYAN7.login("MTEzNjY4NzA3ODIyMzEzMDcxNA.GGLY2E.3e-M8MpnCA_iv8DKiWQGJSXBFDMoWx1q_GK6N4");
-RAYAN8.login("MTEzODA2NzU5OTIwNTM0NzM4OQ.GvpLbG.TTOAsp1VwicysARiYa0HuINuB6m_cJGXrzQAms");
-RAYAN9.login("MTEzODA2NjE0OTcyMDk4OTc1OA.GFo2CM.eQZW8C5Da_oDmlFLJASoqCRhDWZFM0wGz3mPjk");
-RAYAN10.login("MTEzODA2NDg5MTA4NTg0ODY0Nw.GtfD4o.k52e8C5qmGTTgLIMku4RVaF7BZmg1R_PS76Qr0");
-RAYAN11.login("MTEzODA2MjgyMTkxODI2NTM2NA.GDF0E4.N5JuRvFOAc7ictKefA88x41FmbJpMz6xvQn-2Y");
-RAYAN12.login("MTE0MDM0NTgwNDY0OTkzOTAwNg.GY_sMO.7q0HUvpCzCXfD8xDbUmQ7a1tV4NnjUhWMoHJhI");
-RAYAN13.login("MTE0MDM0OTAyOTcwMDYwNDAwNg.GDbvIE.LlPKeIazvD-o_XxDpgZpWCsC4sdkjtQo_fZazA");
-RAYAN14.login("MTE0MDM1MDM5Mzk1NjcxNjY3NQ.Ge_vmc.8jbQK3fAjNxpePpqghu8UrPqBcvx9C6ZLPL9oU");
-RAYAN15.login("MTE0MDM1MTczMTc5Mjg3NTY5Mw.GCirkJ.A8lhaXKHpeRnDs_LV29_opmuDS2qf-ap-QKiuw");
-RAYAN16.login("MTE0MDM1MjYzMTg3Mzc1MzA4OA.Gv7yiM.llMloJHfPUy85ryApbRQLMMa4FMDPlrewaZUgA");
-RAYAN17.login("MTE0MDM1MzYwMTQ5MTk2ODExMQ.GfeRQc.HqSsF_z0GcX6BGIXYH5qB3SjgqPnCWUrnCzACo");
-RAYAN18.login("MTE0MDM1NDM3OTY5ODk0NjE4OQ.GGC4Tv.qsl4p5_AhINWGZpU30z6vcehhDKfqgiv-RUh_c");
-RAYAN19.login("MTE0MDM2MjMyNTUwMTY4OTkxNg.GEF2Iu.KzcO5dav3DLohNM2rH--HAha6BCO9ZuAVAt0bk");
+RAYAN.login("");
+RAYAN2.login("");
+RAYAN3.login("");
+RAYAN4.login("");
+RAYAN5.login("");
+RAYAN6.login("");
+RAYAN7.login("");
+RAYAN8.login("");
+RAYAN9.login("");
+RAYAN10.login("");
+RAYAN11.login("");
+RAYAN12.login("");
+RAYAN13.login("");
+RAYAN14.login("");
+RAYAN15.login("");
+RAYAN16.login("");
+RAYAN17.login("");
+RAYAN18.login("");
+RAYAN19.login("");
 RAYAN20.login("");
 //===============RAYAN============//
