@@ -253,11 +253,11 @@ RAYAN2.on("ready", () => {
   if (join) join.join();
 });
 RAYAN3.on("ready", () => {
-  var join = RAYAN.channels.get(""); /// id voice
+  var join = RAYAN3.channels.get(""); /// id voice
   if (join) join.join();
 });
 RAYAN4.on("ready", () => {
-  var join = RAYAN2.channels.get("");
+  var join = RAYAN4.channels.get("");
   if (join) join.join();
 });
 RAYAN5.on("ready", () => {
